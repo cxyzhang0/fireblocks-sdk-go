@@ -2,8 +2,9 @@
 
 A Golang wrapper for the [Fireblocks API](https://docs.fireblocks.com/api)
 
-### build
-go build
+### install packages and build
+go install  
+may not need to use go get -u -t for individual package
 
 ### Example
 cd example  
